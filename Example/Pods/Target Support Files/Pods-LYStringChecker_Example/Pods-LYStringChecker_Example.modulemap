@@ -1,0 +1,6 @@
+framework module Pods_LYStringChecker_Example {
+  umbrella header "Pods-LYStringChecker_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

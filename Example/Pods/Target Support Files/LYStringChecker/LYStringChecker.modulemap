@@ -1,0 +1,6 @@
+framework module LYStringChecker {
+  umbrella header "LYStringChecker-umbrella.h"
+
+  export *
+  module * { export * }
+}

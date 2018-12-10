@@ -1,0 +1,16 @@
+PODS:
+  - LYStringChecker (0.1.0)
+
+DEPENDENCIES:
+  - LYStringChecker (from `../`)
+
+EXTERNAL SOURCES:
+  LYStringChecker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYStringChecker: 6bf3547d6f268e041619640b7f783db8d2bbb4dc
+
+PODFILE CHECKSUM: 6f44dad258a1b35808af5c37953febecca0cac2d
+
+COCOAPODS: 1.6.0.beta.2
